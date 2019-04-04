@@ -1,5 +1,7 @@
 <?php
 
+use Models\Prestashop;
+
 class PrestashopController extends ControllerBase
 {
 
